@@ -1,4 +1,4 @@
-package com.litts.util;
+package com.seblit.util;
 
 import org.junit.Test;
 

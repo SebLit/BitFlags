@@ -1,4 +1,4 @@
-package com.litts.util;
+package com.seblit.util;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
